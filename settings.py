@@ -1,3 +1,5 @@
+# Game options/settings
+TITLE = "My Game"
 WIDTH = 360
 HEIGHT = 480
 FPS = 30
